@@ -10,3 +10,5 @@
 ## Security Principles
 
 ### The CIA Triad
+
+This triad is composed of 3 key terms: confidentiality, integrity, and availability. 
