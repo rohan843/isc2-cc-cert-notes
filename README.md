@@ -4,3 +4,6 @@
 
 - [ISC2 CC Certification Notes](#isc2-cc-certification-notes)
   - [Contents](#contents)
+  - [Security Principles](#security-principles)
+
+## Security Principles
