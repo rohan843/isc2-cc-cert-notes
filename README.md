@@ -45,3 +45,11 @@ The level of cybersecurity involved depends on the amount of risk that an entity
 Risk refers to the potential consequences of what happens in our environment.
 
 We evaluate risk, and then implement security controls to help mitigate the risk to an acceptable level.
+
+Risks can vary from malware, social engineering, denial of service attacks, fires, crimes, natural disasters, etc.
+
+Risk can be broadly categorized based on probability of occurrence and severity of impact, giving us 4 categories:
+
+| High probability, low imapct | High probability, high imapct |
+| ---------------------------- | ----------------------------- |
+| Low probability, low imapct  | Low probability, high imapct  |
