@@ -11,6 +11,7 @@
     - [Risk Management](#risk-management)
     - [Threats, Vulnerabilities, and Likelihood](#threats-vulnerabilities-and-likelihood)
     - [Examples to threats to the elements of the CIA triad](#examples-to-threats-to-the-elements-of-the-cia-triad)
+    - [Governance Elements](#governance-elements)
 
 ## Security Principles
 
@@ -79,3 +80,7 @@ Note: The same vulnerability may give rise to different threats, for example, a 
 ### Examples to threats to the elements of the CIA triad
 
 If a password is shared among employees, or if work devices such as laptops are left unattended, or if there are natural disasters leading to events such as power outages, then the elements of the CIA triad may be threatened.
+
+### Governance Elements
+
+**Regulations and Laws**: These are imposed by national, regional and local governments. E.g., GDPR, HIPPA, etc. Organizations in multiple jurisdictions must comply with the most restrictive laws.
