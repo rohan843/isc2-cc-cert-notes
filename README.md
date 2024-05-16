@@ -68,6 +68,8 @@ Risk can be broadly categorized based on probability of occurrence and severity 
 
 **Threat Vector**: The means by which a threat actor carries out their objectives.
 
+**Asset**: Something in need of protection.
+
 **Likelihood**: The probability that a potential vulnerability may be exercised within the construct of the associated threat environment.
 
 Consider an example: Tourists are popular targets for pickpockets. Therefore, the existence of pickpockets in a crowded tourist spot is a _threat_ to the people gathered there, even to other pickpockets in the area. If a pickpocket identifies someone as a target, the pickpocket is the _threat actor_ w.r.t. the target. (The target may or may not know about the threat actor.) The approach and technique taken by the pickpocket is their _threat vector_. A pickpocket might choose to select a target that seems distracted or less likely to put up a struggle. In other words, the target appears more _vulnerable_ than other people and the pickpocket feels they can exploit that _vulnerability_.
