@@ -16,3 +16,5 @@ This triad is composed of 3 key terms: confidentiality, integrity, and availabil
 **Confidentiality**: Providing authorized access to information, and preventing its improper disclosure.
 
 **Integrity**: A property of information, where it is kept and used in a way that it is accurate, complete, internally consistent, and useful.
+
+**Availability**: Systems and data must be available when the users need them.
