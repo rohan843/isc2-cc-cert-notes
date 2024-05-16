@@ -57,4 +57,12 @@ Risk can be broadly categorized based on probability of occurrence and severity 
 
 ### Threats, Vulnerabilities, and Likelihood
 
+**Threat**: A threat is any circumstance or event that has the potential to adversely impact organizational operations (including mission, function, image or reputation), organizational assets, individuals, other organizations or the nation through an information system via unauthorized access, destruction, disclosure, modification of information and/or denial of service. [NIST SP 800-30 Rev 1]
 
+**Vulnerability**: Weakness in an information system, system security procedures, internal controls or implementation that could be exploited by a threat source. [NIST SP 800-128]
+
+**Threat Actor**: Any individual or group that attempts to exploit vulnerabilities to cause or force a threat to occur.
+
+**Threat Vector**: The means by which a threat actor carries out their objectives.
+
+**Likelihood**: The probability that a potential vulnerability may be exercised within the construct of the associated threat environment.
