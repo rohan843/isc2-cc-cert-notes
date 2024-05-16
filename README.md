@@ -48,7 +48,7 @@ The level of cybersecurity involved depends on the amount of risk that an entity
 
 **Risk refers to the potential consequences of what happens in our environment.**
 
-We evaluate risk, and then **implement security controls to help mitigate the risk to an _acceptable level_**.
+We evaluate risk, and then **implement security controls to help mitigate the risk to an _acceptable level_**. When making decisions based on risk priorities, organizations must evaluate the likelihood, impack and their tolerance towards different kinds of risks.
 
 Risks can vary from malware, social engineering, denial of service attacks, fires, crimes, natural disasters, etc.
 
