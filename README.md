@@ -23,3 +23,9 @@ This triad is composed of 3 key terms: confidentiality, integrity, and availabil
 ### Privacy
 
 **It is the right of an individual to control the distribution of information about themselves.** Privacy is different from security, even though both focus on safeguarding information.
+
+The legislation and regulations on privacy and data can affect organizations _irrespective of their physical location_.
+
+There is a major push towards privacy legislation and compliance with existing policies. There are various laws defining privacy and data protection, which periodically change.
+
+Merely ensuring proper security measures are in place is not enough for organizations to meet privacy regulations. They are still liable for any mishandling or misuse of data.
