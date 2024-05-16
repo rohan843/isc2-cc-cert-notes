@@ -40,6 +40,8 @@ The EU passed this legislation in 2018, deeming privacy to be an individual huma
 
 Any entity anywhere must abide by the legal requirements of its jurisdiction. It is important to properly assess how these laws apply to our organizations.
 
+> HIPPA (health insurance portability and accountability act) controls the privacy of medical information in the US.
+
 ### Risk Management
 
 The level of cybersecurity involved depends on the amount of risk that an entity is willing to accept.
