@@ -96,4 +96,4 @@ Risk must be identified to be communicated clearly.
 
 All employees are responsible for identifying risks.
 
-Security professionals assist in the risk identification process, focussing on process, control, monitoring or incidence response and recovery.
+Security professionals assist in the risk identification process at the system level, focussing on process, control, monitoring or incidence response and recovery.
