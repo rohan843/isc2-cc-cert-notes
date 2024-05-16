@@ -11,4 +11,4 @@
 
 ### The CIA Triad
 
-This triad is composed of 3 key terms: confidentiality, integrity, and availability. 
+This triad is composed of 3 key terms: confidentiality, integrity, and availability. It is so-created to make important components of security sound relevant to non - technical people.
