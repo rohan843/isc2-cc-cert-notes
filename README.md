@@ -12,6 +12,7 @@
     - [Threats, Vulnerabilities, and Likelihood](#threats-vulnerabilities-and-likelihood)
     - [Examples to threats to the elements of the CIA triad](#examples-to-threats-to-the-elements-of-the-cia-triad)
     - [Governance Elements](#governance-elements)
+    - [Risk Identification](#risk-identification)
 
 ## Security Principles
 
@@ -86,3 +87,13 @@ If a password is shared among employees, or if work devices such as laptops are 
 **Regulations and Laws**: These are imposed by national, regional and local governments. E.g., GDPR, HIPPA, etc. Organizations in multiple jurisdictions must comply with the most restrictive laws.
 
 **Standards**: These cover a broad range of issues and ideas. These are well accepted in an industry. Some examples of organizations that create standards are: ISO, NIST, IETF.
+
+### Risk Identification
+
+Risk identification is a recurring process that involves identifying different possible risks, characterizing them and estimating their potential for disrupting the organization. This is done with the prior knowledge of the organization, its situation and its strategic, tactical and operational plans.
+
+Risk must be identified to be communicated clearly.
+
+All employees are responsible for identifying risks.
+
+Security professionals assist in the risk identification process, focussing on process, control, monitoring or incidence response and recovery.
