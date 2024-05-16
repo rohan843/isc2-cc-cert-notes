@@ -8,6 +8,7 @@
     - [The CIA Triad](#the-cia-triad)
     - [Privacy](#privacy)
       - [GDPR: General Data Protection Legislation](#gdpr-general-data-protection-legislation)
+    - [Risk Management](#risk-management)
 
 ## Security Principles
 
@@ -36,3 +37,7 @@ Merely ensuring proper security measures are in place is not enough for organiza
 The EU passed this legislation in 2018, deeming privacy to be an individual human right. **GDPR applies to all organizations and individuals doing business in EU.** EU member countries and other jurisdictions such as several states in the US enact laws to enforce privacy regulations. For the EU countries, these laws may be more stringent than GDPR.
 
 Any entity anywhere must abide by the legal requirements of its jurisdiction. It is important to properly assess how these laws apply to our organizations.
+
+### Risk Management
+
+
