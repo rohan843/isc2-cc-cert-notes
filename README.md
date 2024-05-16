@@ -13,6 +13,7 @@
     - [Examples to threats to the elements of the CIA triad](#examples-to-threats-to-the-elements-of-the-cia-triad)
     - [Governance Elements](#governance-elements)
     - [Risk Identification](#risk-identification)
+    - [Authentication](#authentication)
 
 ## Security Principles
 
@@ -97,3 +98,11 @@ Risk must be identified to be communicated clearly.
 All employees are responsible for identifying risks.
 
 Security professionals assist in the risk identification process at the system level, focussing on process, control, monitoring or incidence response and recovery.
+
+### Authentication
+
+The process of verifying that a user is the rightful owner of an identity they claim to have. I.e., it is a way to **prove the identity of the requestor.** There are three common methods of authentication:
+
+1. **Something you know**: passwords, passphrases
+2. **Something you have**: tokens, memory cards, smart cards
+3. **Something you are**: biometrics, measurable characteristics
