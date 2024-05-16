@@ -51,8 +51,10 @@ Risks can vary from malware, social engineering, denial of service attacks, fire
 
 Risk can be broadly categorized based on probability of occurrence and severity of impact, giving us 4 categories:
 
-| High probability, low imapct | High probability, high imapct |
+| High probability, low impact | High probability, high impact |
 | ---------------------------- | ----------------------------- |
-| Low probability, low imapct  | Low probability, high imapct  |
+| Low probability, low impact  | Low probability, high impact  |
 
 ### Threats, Vulnerabilities, and Likelihood
+
+
