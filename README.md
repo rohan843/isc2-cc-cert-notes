@@ -9,6 +9,7 @@
     - [Privacy](#privacy)
       - [GDPR: General Data Protection Legislation](#gdpr-general-data-protection-legislation)
     - [Risk Management](#risk-management)
+    - [Threats, Vulnerabilities, and Likelihood](#threats-vulnerabilities-and-likelihood)
 
 ## Security Principles
 
@@ -53,3 +54,5 @@ Risk can be broadly categorized based on probability of occurrence and severity 
 | High probability, low imapct | High probability, high imapct |
 | ---------------------------- | ----------------------------- |
 | Low probability, low imapct  | Low probability, high imapct  |
+
+### Threats, Vulnerabilities, and Likelihood
