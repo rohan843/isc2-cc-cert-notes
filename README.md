@@ -10,6 +10,7 @@
       - [GDPR: General Data Protection Legislation](#gdpr-general-data-protection-legislation)
     - [Risk Management](#risk-management)
     - [Threats, Vulnerabilities, and Likelihood](#threats-vulnerabilities-and-likelihood)
+    - [Examples to threats to the elements of the CIA triad](#examples-to-threats-to-the-elements-of-the-cia-triad)
 
 ## Security Principles
 
@@ -70,3 +71,7 @@ Risk can be broadly categorized based on probability of occurrence and severity 
 Consider an example: Tourists are popular targets for pickpockets. Therefore, the existence of pickpockets in a crowded tourist spot is a _threat_ to the people gathered there, even to other pickpockets in the area. If a pickpocket identifies someone as a target, the pickpocket is the _threat actor_ w.r.t. the target. (The target may or may not know about the threat actor.) The approach and technique taken by the pickpocket is their _threat vector_. A pickpocket might choose to select a target that seems distracted or less likely to put up a struggle. In other words, the target appears more _vulnerable_ than other people and the pickpocket feels they can exploit that _vulnerability_.
 
 Note: The same vulnerability may give rise to different threats, for example, a person focused on their phone screen (vulnerability) might be a target of pickpockets or a victim of a traffic accident (threats). **A vulnerability is a weakness, a threat is a potential exploit from a weakness.**
+
+### Examples to threats to the elements of the CIA triad
+
+If a password is shared among employees, or if work devices such as laptops are left unattended, or if there are natural disasters leading to events such as power outages, then the elements of the CIA triad may be threatened.
