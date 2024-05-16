@@ -42,9 +42,9 @@ Any entity anywhere must abide by the legal requirements of its jurisdiction. It
 
 The level of cybersecurity involved depends on the amount of risk that an entity is willing to accept.
 
-Risk refers to the potential consequences of what happens in our environment.
+**Risk refers to the potential consequences of what happens in our environment.**
 
-We evaluate risk, and then implement security controls to help mitigate the risk to an acceptable level.
+We evaluate risk, and then **implement security controls to help mitigate the risk to an _acceptable level_**.
 
 Risks can vary from malware, social engineering, denial of service attacks, fires, crimes, natural disasters, etc.
 
