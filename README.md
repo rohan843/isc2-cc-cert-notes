@@ -40,4 +40,8 @@ Any entity anywhere must abide by the legal requirements of its jurisdiction. It
 
 ### Risk Management
 
+The level of cybersecurity involved depends on the amount of risk that an entity is willing to accept.
 
+Risk refers to the potential consequences of what happens in our environment.
+
+We evaluate risk, and then implement security controls to help mitigate the risk to an acceptable level.
