@@ -84,3 +84,5 @@ If a password is shared among employees, or if work devices such as laptops are 
 ### Governance Elements
 
 **Regulations and Laws**: These are imposed by national, regional and local governments. E.g., GDPR, HIPPA, etc. Organizations in multiple jurisdictions must comply with the most restrictive laws.
+
+**Standards**: These cover a broad range of issues and ideas. These are well accepted in an industry. Some examples of organizations that create standards are: ISO, NIST, IETF.
