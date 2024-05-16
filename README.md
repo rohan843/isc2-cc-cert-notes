@@ -28,4 +28,6 @@ The legislation and regulations on privacy and data can affect organizations _ir
 
 There is a major push towards privacy legislation and compliance with existing policies. There are various laws defining privacy and data protection, which periodically change.
 
-Merely ensuring proper security measures are in place is not enough for organizations to meet privacy regulations. They are still liable for any mishandling or misuse of data.
+Merely ensuring proper security measures are in place is not enough for organizations to meet privacy regulations. **They are still liable for any mishandling or misuse of data.**
+
+
